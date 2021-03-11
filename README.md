@@ -22,7 +22,7 @@ Without having to step out of the classroom or their home, students are exposed 
 ## Created App using Unity
 Working on it!
 
-# Mentors 
+# Made with ❤️ by
 
 | GitHub Usernames                                      | Domain                     |
 | ----------------------------------------------------- | -------------------------- |
